@@ -1,0 +1,6 @@
+# virtual environment
+cdw_venv/
+
+# secret shit
+.env
+ 
